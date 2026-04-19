@@ -18,7 +18,7 @@ It combines **machine learning + AI-driven career coaching** to deliver both pre
 
 ## 🚀 Live Demo
 
-🔗 *Add your Streamlit deployment link here*
+🔗 https://placementpredictionai.streamlit.app/
 
 ### 📸 Key Screens
 - Student Profile Input Dashboard  
