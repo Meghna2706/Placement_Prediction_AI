@@ -169,15 +169,21 @@ http://localhost:8501
 
 ## 📁 Project Structure
 
-
 hackathon/
 │
-├── placement_prediction_model.py
-├── streamlit_app.py
-├── README.md
-├── requirements.txt
-├── data/
-├── docs/
+├── streamlit_app.py # Streamlit web app
+├── README.md # Project documentation
+├── requirements.txt # Dependencies
+├── output
+|
+├── data/ # Dataset & related files
+│ └── data_dictionary.md
+│
+├── docs/ # Supporting documentation
+│ ├── architecture_diagram.png
+│ ├── model_performance.md
+│ ├── deployment_guide.md
+│ └── problem_statement.md
 
 
 ---
