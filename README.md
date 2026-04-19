@@ -168,7 +168,7 @@ http://localhost:8501
 ---
 
 ## 📁 Project Structure
-
+'''
 Placement_Prediction_AI/
 │
 ├── streamlit_app.py              # Streamlit web app
@@ -185,7 +185,7 @@ Placement_Prediction_AI/
 │   ├── model_performance.md
 │   ├── deployment_guide.md
 │   └── problem_statement.md
-
+'''
 ---
 
 ## 👩‍💻 Author
